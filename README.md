@@ -85,9 +85,3 @@ Enjoy!
 - [HL7 FHIR Restful API specification](https://www.hl7.org/fhir/http.html)
 - [Firely .NET SDK FHIR Community](https://chat.fhir.org/#narrow/stream/179171-dotnet)
 - [List of FHIR Test servers](https://confluence.hl7.org/display/FHIR/Public+Test+Servers)
-
-## Contributing
-Please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Trademarks
-HL7®, FHIR® and the flame Design mark are the registered trademarks of Health Level Seven International.
